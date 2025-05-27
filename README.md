@@ -33,3 +33,4 @@ Sou um desenvolvedor experiente com foco em soluções web modernas. Trabalho co
 
 ⭐ **Obrigado por visitar meu perfil! Dê uma olhada nos meus repositórios e fique à vontade para contribuir ou entrar em contato.**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
