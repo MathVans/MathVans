@@ -33,4 +33,4 @@ Sou um desenvolvedor experiente com foco em soluções web modernas. Trabalho co
 
 ⭐ **Obrigado por visitar meu perfil! Dê uma olhada nos meus repositórios e fique à vontade para contribuir ou entrar em contato.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathVans&hide=racket,cython,HTML,CSS,c#,Fortran,SCSS,PowerShell,Less,Shell,Smarty,Plpgsql,Forth,Makefile,Procfile,C,Kotlin&count_weight=0.5&size_weight=0.5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathVans&hide=racket,cython,HTML,CSS,C%23,Fortran,SCSS,PowerShell,Less,Shell,Smarty,Plpgsql,Forth,Makefile,Procfile,C,Kotlin&count_weight=0.7&size_weight=0.3&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
