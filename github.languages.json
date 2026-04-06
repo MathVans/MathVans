@@ -1,0 +1,116 @@
+[
+  {
+    "name": "C#",
+    "size": 9195119,
+    "color": "#178600",
+    "percentage": "95.55"
+  },
+  {
+    "name": "TypeScript",
+    "size": 222080,
+    "color": "#3178c6",
+    "percentage": "2.31"
+  },
+  {
+    "name": "Java",
+    "size": 62970,
+    "color": "#b07219",
+    "percentage": "0.65"
+  },
+  {
+    "name": "Jupyter Notebook",
+    "size": 35408,
+    "color": "#DA5B0B",
+    "percentage": "0.37"
+  },
+  {
+    "name": "JavaScript",
+    "size": 33765,
+    "color": "#f1e05a",
+    "percentage": "0.35"
+  },
+  {
+    "name": "C++",
+    "size": 31957,
+    "color": "#f34b7d",
+    "percentage": "0.33"
+  },
+  {
+    "name": "Python",
+    "size": 9520,
+    "color": "#3572A5",
+    "percentage": "0.10"
+  },
+  {
+    "name": "Objective-C++",
+    "size": 8982,
+    "color": "#6866fb",
+    "percentage": "0.09"
+  },
+  {
+    "name": "HLSL",
+    "size": 7157,
+    "color": "#aace60",
+    "percentage": "0.07"
+  },
+  {
+    "name": "Bru",
+    "size": 4402,
+    "color": "#8b949e",
+    "percentage": "0.05"
+  },
+  {
+    "name": "HTML",
+    "size": 2794,
+    "color": "#e34c26",
+    "percentage": "0.03"
+  },
+  {
+    "name": "ShaderLab",
+    "size": 2414,
+    "color": "#222c37",
+    "percentage": "0.03"
+  },
+  {
+    "name": "TSQL",
+    "size": 2350,
+    "color": "#e38c00",
+    "percentage": "0.02"
+  },
+  {
+    "name": "Shell",
+    "size": 1839,
+    "color": "#89e051",
+    "percentage": "0.02"
+  },
+  {
+    "name": "Dockerfile",
+    "size": 947,
+    "color": "#384d54",
+    "percentage": "0.01"
+  },
+  {
+    "name": "PLpgSQL",
+    "size": 869,
+    "color": "#336790",
+    "percentage": "0.01"
+  },
+  {
+    "name": "Mako",
+    "size": 494,
+    "color": "#7e858d",
+    "percentage": "0.01"
+  },
+  {
+    "name": "CMake",
+    "size": 426,
+    "color": "#DA3434",
+    "percentage": "0.00"
+  },
+  {
+    "name": "Batchfile",
+    "size": 20,
+    "color": "#C1F12E",
+    "percentage": "0.00"
+  }
+]
