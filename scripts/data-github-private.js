@@ -116,6 +116,7 @@ const LANGUAGE_COLOR_MAP = {
 }
 
 const DEFAULT_LANGUAGE_COLOR = '#8b949e'
+const EXCLUDED_LANGUAGE_NAMES = new Set(['C#'])
 
 const buildLanguagesFromRepositories = async (repositories = []) => {
   const languages = []
@@ -134,6 +135,10 @@ const buildLanguagesFromRepositories = async (repositories = []) => {
       const repoLanguages = response.data || {}
 
       for (const [langName, langSize] of Object.entries(repoLanguages)) {
+        if (EXCLUDED_LANGUAGE_NAMES.has(langName)) {
+          continue
+        }
+
         totalSize += langSize
 
         if (languageStats[langName]) {
@@ -203,6 +208,10 @@ export const getGitHubPrivateData = async (repositories = []) => {
     repo.languages.edges.forEach((edge) => {
       const langSize = edge.size
       const langName = edge.node.name
+      if (EXCLUDED_LANGUAGE_NAMES.has(langName)) {
+        return
+      }
+
       const langColor = edge.node.color || LANGUAGE_COLOR_MAP[langName] || DEFAULT_LANGUAGE_COLOR
       totalSize += langSize
       if (languageStats[langName]) {
