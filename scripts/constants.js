@@ -12,4 +12,4 @@ export const CONFIG = {
 }
 export const OUTPUT_DIR = path.join(__dirname, '..', 'output')
 
-export const GITHUB_ACCESS_TOKEN = process.env.GITHUB_ACCESS_TOKEN || process.env.GITHUB_TOKEN || ''
+export const GITHUB_ACCESS_TOKEN = process.env.GITHUB_ACCESS_TOKEN || process.env.GITHUBTOKEN || ''

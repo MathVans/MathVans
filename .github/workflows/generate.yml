@@ -1,5 +1,8 @@
 name: Generate
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
