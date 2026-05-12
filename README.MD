@@ -1,7 +1,6 @@
 <h3></h3>
 
 <p align="center">
-  <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://github.com/MathVans/MathVans" title="MathVans">
     <picture>
