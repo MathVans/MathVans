@@ -1,55 +1,55 @@
 [
   {
     "name": "TypeScript",
-    "size": 225931,
+    "size": 228676,
     "color": "#3178c6",
-    "percentage": "52.07"
+    "percentage": "52.37"
   },
   {
     "name": "Java",
     "size": 62970,
     "color": "#b07219",
-    "percentage": "14.51"
+    "percentage": "14.42"
   },
   {
     "name": "Jupyter Notebook",
     "size": 35408,
     "color": "#DA5B0B",
-    "percentage": "8.16"
+    "percentage": "8.11"
   },
   {
     "name": "JavaScript",
     "size": 33971,
     "color": "#f1e05a",
-    "percentage": "7.83"
+    "percentage": "7.78"
   },
   {
     "name": "C++",
     "size": 31957,
     "color": "#f34b7d",
-    "percentage": "7.36"
+    "percentage": "7.32"
   },
   {
     "name": "Python",
     "size": 9520,
     "color": "#3572A5",
-    "percentage": "2.19"
+    "percentage": "2.18"
   },
   {
     "name": "Objective-C++",
     "size": 8982,
     "color": "#6866fb",
-    "percentage": "2.07"
+    "percentage": "2.06"
   },
   {
     "name": "HLSL",
     "size": 7157,
     "color": "#aace60",
-    "percentage": "1.65"
+    "percentage": "1.64"
   },
   {
     "name": "Bru",
-    "size": 5857,
+    "size": 5893,
     "color": "#8b949e",
     "percentage": "1.35"
   },
@@ -63,7 +63,7 @@
     "name": "ShaderLab",
     "size": 2414,
     "color": "#222c37",
-    "percentage": "0.56"
+    "percentage": "0.55"
   },
   {
     "name": "TSQL",
