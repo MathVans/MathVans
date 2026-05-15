@@ -1,9 +1,9 @@
 [
   {
     "name": "TypeScript",
-    "size": 228676,
+    "size": 228697,
     "color": "#3178c6",
-    "percentage": "52.37"
+    "percentage": "52.38"
   },
   {
     "name": "Java",
@@ -49,9 +49,9 @@
   },
   {
     "name": "Bru",
-    "size": 5893,
+    "size": 5829,
     "color": "#8b949e",
-    "percentage": "1.35"
+    "percentage": "1.33"
   },
   {
     "name": "HTML",
