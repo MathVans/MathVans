@@ -1,57 +1,57 @@
 [
   {
     "name": "TypeScript",
-    "size": 228697,
+    "size": 229722,
     "color": "#3178c6",
-    "percentage": "52.38"
+    "percentage": "52.42"
   },
   {
     "name": "Java",
     "size": 62970,
     "color": "#b07219",
-    "percentage": "14.42"
+    "percentage": "14.37"
   },
   {
     "name": "Jupyter Notebook",
     "size": 35408,
     "color": "#DA5B0B",
-    "percentage": "8.11"
+    "percentage": "8.08"
   },
   {
     "name": "JavaScript",
     "size": 33971,
     "color": "#f1e05a",
-    "percentage": "7.78"
+    "percentage": "7.75"
   },
   {
     "name": "C++",
     "size": 31957,
     "color": "#f34b7d",
-    "percentage": "7.32"
+    "percentage": "7.29"
   },
   {
     "name": "Python",
     "size": 9520,
     "color": "#3572A5",
-    "percentage": "2.18"
+    "percentage": "2.17"
   },
   {
     "name": "Objective-C++",
     "size": 8982,
     "color": "#6866fb",
-    "percentage": "2.06"
+    "percentage": "2.05"
   },
   {
     "name": "HLSL",
     "size": 7157,
     "color": "#aace60",
-    "percentage": "1.64"
+    "percentage": "1.63"
   },
   {
     "name": "Bru",
-    "size": 5829,
+    "size": 6406,
     "color": "#8b949e",
-    "percentage": "1.33"
+    "percentage": "1.46"
   },
   {
     "name": "HTML",
