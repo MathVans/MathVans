@@ -147,7 +147,7 @@
           <span
             class="item"
             data-lang="Bru"
-            style="background-color: #8b949e; width: 1.46%"
+            style="background-color: #8b949e; width: 1.47%"
           ></span>
 
           <span
@@ -325,11 +325,11 @@
 
           <div class="legend" style="--color: #8b949e">
             <span class="color" style="--gradient: 40%">
-              <span class="core" style="width: 1.46%"></span>
+              <span class="core" style="width: 1.47%"></span>
             </span>
             <span class="icon"><span class="placeholder"></span></span>
             <span class="name">Bru</span>
-            <span class="percentage">1.46%</span>
+            <span class="percentage">1.47%</span>
           </div>
 
           <div class="legend" style="--color: #e34c26">
