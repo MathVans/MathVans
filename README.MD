@@ -13,7 +13,7 @@
 <h3 align="center">
   <i>
     <samp>
-      eu escrevo código, estudo tecnologia e transformo ideias em projetos úteis.
+      Opa!
     </samp>
   </i>
 </h3>
