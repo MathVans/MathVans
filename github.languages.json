@@ -1,33 +1,33 @@
 [
   {
     "name": "TypeScript",
-    "size": 229729,
+    "size": 229309,
     "color": "#3178c6",
-    "percentage": "52.42"
+    "percentage": "52.37"
   },
   {
     "name": "Java",
     "size": 62970,
     "color": "#b07219",
-    "percentage": "14.37"
+    "percentage": "14.38"
   },
   {
     "name": "Jupyter Notebook",
     "size": 35408,
     "color": "#DA5B0B",
-    "percentage": "8.08"
+    "percentage": "8.09"
   },
   {
     "name": "JavaScript",
     "size": 33971,
     "color": "#f1e05a",
-    "percentage": "7.75"
+    "percentage": "7.76"
   },
   {
     "name": "C++",
     "size": 31957,
     "color": "#f34b7d",
-    "percentage": "7.29"
+    "percentage": "7.30"
   },
   {
     "name": "Python",
