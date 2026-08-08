@@ -3,91 +3,91 @@
     "name": "TypeScript",
     "size": 229309,
     "color": "#3178c6",
-    "percentage": "52.37"
+    "percentage": "48.83"
   },
   {
     "name": "Java",
     "size": 62970,
     "color": "#b07219",
-    "percentage": "14.38"
+    "percentage": "13.41"
+  },
+  {
+    "name": "Python",
+    "size": 41243,
+    "color": "#3572A5",
+    "percentage": "8.78"
   },
   {
     "name": "Jupyter Notebook",
     "size": 35408,
     "color": "#DA5B0B",
-    "percentage": "8.09"
+    "percentage": "7.54"
   },
   {
     "name": "JavaScript",
     "size": 33971,
     "color": "#f1e05a",
-    "percentage": "7.76"
+    "percentage": "7.23"
   },
   {
     "name": "C++",
     "size": 31957,
     "color": "#f34b7d",
-    "percentage": "7.30"
-  },
-  {
-    "name": "Python",
-    "size": 9520,
-    "color": "#3572A5",
-    "percentage": "2.17"
+    "percentage": "6.81"
   },
   {
     "name": "Objective-C++",
     "size": 8982,
     "color": "#6866fb",
-    "percentage": "2.05"
+    "percentage": "1.91"
   },
   {
     "name": "HLSL",
     "size": 7157,
     "color": "#aace60",
-    "percentage": "1.63"
+    "percentage": "1.52"
   },
   {
     "name": "Bru",
     "size": 6425,
     "color": "#8b949e",
-    "percentage": "1.47"
+    "percentage": "1.37"
   },
   {
     "name": "HTML",
     "size": 2794,
     "color": "#e34c26",
-    "percentage": "0.64"
+    "percentage": "0.60"
   },
   {
     "name": "ShaderLab",
     "size": 2414,
     "color": "#222c37",
-    "percentage": "0.55"
+    "percentage": "0.51"
   },
   {
     "name": "TSQL",
     "size": 2350,
     "color": "#e38c00",
-    "percentage": "0.54"
+    "percentage": "0.50"
   },
   {
     "name": "Shell",
     "size": 1839,
     "color": "#89e051",
-    "percentage": "0.42"
+    "percentage": "0.39"
   },
   {
     "name": "Dockerfile",
     "size": 947,
     "color": "#384d54",
-    "percentage": "0.22"
+    "percentage": "0.20"
   },
   {
     "name": "PLpgSQL",
     "size": 869,
     "color": "#336790",
-    "percentage": "0.20"
+    "percentage": "0.19"
   },
   {
     "name": "Mako",
@@ -99,7 +99,7 @@
     "name": "CMake",
     "size": 426,
     "color": "#DA3434",
-    "percentage": "0.10"
+    "percentage": "0.09"
   },
   {
     "name": "Batchfile",
